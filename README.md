@@ -1,2 +1,2 @@
 # DungeonQuest
-Preparation for an internship.
+Little game as preparation for an internship.
